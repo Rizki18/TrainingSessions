@@ -1,0 +1,8 @@
+A -----> https://codeforces.com/contest/988/problem/A
+B -----> https://codeforces.com/contest/673/problem/A
+C -----> https://codeforces.com/gym/101883/problem/A
+D -----> https://codeforces.com/gym/101883/problem/B
+E -----> https://codeforces.com/problemset/problem/617/A
+F -----> https://codeforces.com/contest/1082/problem/A
+G -----> https://codeforces.com/contest/1082/problem/B
+H -----> https://codeforces.com/contest/1082/problem/C
